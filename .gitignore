@@ -1,0 +1,17 @@
+# Ignore compiled files
+*.o
+*.out
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+.tmp/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore large files
+CT.nii/4_gk_nativ_3.nii
+segmentation.nii
+CT.nii.gz
